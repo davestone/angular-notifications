@@ -1,0 +1,32 @@
+{
+  "author": "Dave Stone <dave@davecstone.com> (http://davecstone.com)",
+  "name": "angular-notifications",
+  "description": "Simple yet highly customizable Notifications within your Angular.js app.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/davestone/angular-notifications",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davestone/angular-notifications"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "grunt": "latest",
+    "grunt-cli": "latest",
+    "grunt-contrib-concat": "latest",
+    "grunt-contrib-copy": "latest",
+    "grunt-contrib-jshint": "latest",
+    "grunt-contrib-uglify": "latest",
+    "grunt-contrib-watch": "latest",
+    "grunt-karma": "latest",
+    "jasmine-node": "latest",
+    "karma": "latest",
+    "karma-chai": "^0.1.0",
+    "karma-mocha": "^0.1.8",
+    "karma-phantomjs-launcher": "^0.1.4",
+    "mocha": "^1.21.4",
+    "phantomjs": "latest"
+  }
+}
